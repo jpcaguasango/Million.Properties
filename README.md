@@ -1,12 +1,12 @@
 # 🏠 Million Properties - Backend API
 
-Backend desarrollado en **.NET 7** para el manejo de propiedades inmobiliarias. La API está organizada en capas y utiliza **MongoDB** como base de datos. Las imágenes de las propiedades se obtienen mediante la **API de Unsplash**.
+Backend desarrollado en **.NET 9** para el manejo de propiedades inmobiliarias. La API está organizada en capas y utiliza **MongoDB** como base de datos. Las imágenes de las propiedades se obtienen mediante la **API de Unsplash**.
 
 ---
 
 ## 📝 Requisitos
 
-* **NET 7 SDK**
+* **NET 9**
 * **MongoDB** (local o en la nube)
 * **Visual Studio** o **VS Code**
 
@@ -64,7 +64,7 @@ La documentación Swagger estará disponible en [http://localhost:5114/swagger/i
 ---
 ## 🛠 Tecnologías utilizadas
 
-* **.NET 7**
+* **.NET 9**
 * **MongoDB**
 * **AutoMapper**
 * **ASP.NET Core Web API**
