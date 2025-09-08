@@ -17,10 +17,6 @@ Antes de ejecutar el proyecto, asegúrate de tener una base de datos MongoDB cor
 ## ⚡ Instalación y ejecución
 
 ```bash
-# Clonar repositorio
-git clone [https://github.com/tu-usuario/million-properties-backend.git](https://github.com/tu-usuario/million-properties-backend.git)
-cd million-properties-backend
-
 # Restaurar paquetes
 dotnet restore
 
